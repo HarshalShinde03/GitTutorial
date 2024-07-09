@@ -11,6 +11,7 @@ namespace GithubTutorial
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
+            Console.WriteLine("This will be the first commit");
         }
     }
 }
